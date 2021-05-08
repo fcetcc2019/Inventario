@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Inventário</string>
+    <string name="main_group_noGrouping">Não Agrupar</string>
+    <string name="main_newRoom">Novo Cômodo</string>
+    <string name="room_newItem">Novo Item</string>
+    <string name="main_group_byRoom">Agrupar por Cômodo</string>
+    <string name="ctnDesc_roomItemEdit">Editar item</string>
+    <string name="ctnDesc_roomItemDelete">Excluir Item</string>
+    <string name="roomItemsList_labelGenericAmount">0</string>
+    <string name="roomItemsList_labelGenericName">Item</string>
+    <string name="roomCard_GenericName">Nome do Cômodo</string>
+    <string name="room_totalItemsLabel">Total de Itens:</string>
+    <string name="eidtItem_itemNameLabel">Nome</string>
+    <string name="editItem_itemAmountLabel">Quantidade</string>
+    <string name="editItem_btnMinus">-</string>
+    <string name="editItem_btnPlus">+</string>
+    <string name="editItem_btnCancel">Cancelar</string>
+    <string name="editItem_btnSave">Salvar</string>
+</resources>
